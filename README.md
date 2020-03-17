@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<img height="215" src="https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_1000x1000_$&$product=PartyCity/610214" onclick="rickRoll()">
+<img height="45" src="https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_1000x1000_$&$product=PartyCity/610214" onclick="rickRoll()">
 
 <script>
 var rickAstley = new Audio('https://archive.org/download/NeverGonnaGiveYouUp/jocofullinterview41.mp3')
