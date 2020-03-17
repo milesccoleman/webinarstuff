@@ -1,6 +1,7 @@
 # Resources for Synchronous Online Learning
 
 ## [Blackboard Collaborate Ultra Basics](https://www.youtube.com/embed/1W4sGpVmJaY)
+[Collaborate Instructions Document](https://github.com/milesccoleman/webinarstuff/blob/master/collaborateInstructions.pdf?raw=true)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1W4sGpVmJaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
