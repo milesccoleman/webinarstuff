@@ -17,3 +17,26 @@
 <br>
 <br>
 <br>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://github.com/milesccoleman/webinarstuff/blob/master/easterEgg.jpg" onclick="rickRoll()>
+
+<script>
+var rickAstley = new Audio('https://archive.org/download/NeverGonnaGiveYouUp/jocofullinterview41.mp3')
+  
+function rickRoll (){
+
+rickAstley.play()
+}
+</script>
+                                                                                            
+                                                                                            
+                                                                                          
